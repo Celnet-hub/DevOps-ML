@@ -1,1 +1,6 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAME                              READY   STATUS             RESTARTS   AGE
+app-pod-797c45b8f5-c85sl          0/1     ErrImagePull       0          32s
+mypython-app-5fcd98698c-6lv58     1/1     Running            0          10m
+python-app-pod-5db9b4b55d-xqxp7   0/1     ImagePullBackOff   0          9s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
